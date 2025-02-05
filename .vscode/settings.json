@@ -1,0 +1,9 @@
+{
+    "editor.useTabStops": false,
+    "workbench.editor.tabActionLocation": "right",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.showTabs": "multiple",
+    "prettier.useTabs": true,
+    "workbench.editor.enablePreview": false
+}
